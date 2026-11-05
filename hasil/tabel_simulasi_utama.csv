@@ -1,0 +1,6 @@
+,Energi (kWh),Hemat vs T24 (%),Suhu rata-rata (°C),Suhu maks (°C),Waktu nyaman (%),Waktu terlalu panas (%),Waktu terlalu dingin (%),Nyaman setelah 08.00 (%),"Pendinginan awal ke 27,1 °C (menit)",RH rata-rata (%),Waktu RH > 70% (%),Start kompresor
+Termostat 22 °C,12.709,-10.837,22.948,29.249,27.197,6.276,66.527,24.286,32.0,69.696,69.665,5.0
+Termostat 24 °C (acuan),11.467,0.0,24.423,29.249,93.724,6.276,0.0,100.0,32.0,64.78,1.464,6.0
+Termostat 26 °C,10.517,8.279,26.118,29.249,93.724,6.276,0.0,100.0,32.0,59.901,1.464,7.0
+Fuzzy Mamdani,10.337,9.849,25.852,29.276,92.05,7.95,0.0,100.0,40.0,60.492,1.674,1.0
+Fuzzy Sugeno,10.375,9.521,25.795,29.268,92.469,7.531,0.0,100.0,38.0,60.649,1.464,1.0
